@@ -1,6 +1,6 @@
 project:
   type: website
-  output -dir: /Users/semyonleontyev
+  output -dir: docs
 
 website:
   title: "test_portfolio"
