@@ -1,0 +1,14 @@
+This is the new post. Portfolio file.
+
+How to add code here?
+
+```{r}
+x <- 250/10
+x+5
+```
+
+```{python}
+while i in [1,2,3,4,5]:
+  print(i)
+
+```
