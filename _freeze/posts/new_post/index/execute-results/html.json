@@ -1,0 +1,14 @@
+{
+  "hash": "10f89813f1e589cc36b27cb5b20aabe1",
+  "result": {
+    "markdown": "This is the new post. Portfolio file.\n\nHow to add code here?\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- 250/10\nx + 5\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 30\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
