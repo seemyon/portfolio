@@ -3,7 +3,7 @@ project:
   output -dir: /Users/semyonleontyev
 
 website:
-  title: "projects_folder"
+  title: "test_portfolio"
   navbar:
     right:
       - about.qmd
